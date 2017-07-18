@@ -453,6 +453,10 @@ footer ul li a:hover{
 	.col-sm-3.col-xs-12.contacts{
 		margin-bottom: 45px;
 	}
+	
+	#tinyone .carousel-inner .item p br{
+		display: none;
+	}
 }
 
 @media only screen and (max-width : 480px) {
